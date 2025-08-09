@@ -11,7 +11,7 @@ A data-driven exploration of **Valentine’s Day consumer trends, behaviors, and
 ---
 ## Project Insights
 
-Valentine’s Day has just passed, and analysis of consumer data revealed interesting trends:  
+Analysis of consumer data revealed interesting trends:  
 - **Men tend to spend significantly more on flowers than women.**  
 - **Younger age groups spend more on flowers**, while spending shifts towards **greeting cards as age increases** among older consumers.
 
